@@ -1,11 +1,17 @@
 This is the project that includes the code and datasets for the paper titled "Perform a CT Scan of the Vulnerability: Multi-Agent Vulnerability Assessment via Scene Recovery"
 
 How to run, please follow these steps:
+
 i) Download the dataset and decompress it.
+
 ii) Crawler.py provides additional information for extracting vulnerability code.
+
 iii) offlineEvaluator.py refers to static evaluation metrics for three agents.
+
 iv) CrossModelValidator.py is used for cross-model validation.
+
 v) vultomographer.py refers to our methodology.
+
 
 
 # Behavioral model for vulnerability assessment.
