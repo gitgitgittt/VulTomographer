@@ -59,7 +59,7 @@ class ContextCrawler:
             return context_data
 
         except requests.exceptions.RequestException as e:
-            print(f"爬取上下文失败: {e}")
+            print(f"failed  : {e}")
             return None
 
 if __name__ == "__main__":
